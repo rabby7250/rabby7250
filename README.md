@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @rabby7250
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-rabby7250/rabby7250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>
+<body>
+<h1><i>𝐇𝐢..👋 𝐈 𝐚𝐦 Rabby🔰</h1>
+<img src="/storage/emulated/0/Download/code.gif" width="300" height="200"></img>
+<p><i>Skills: 🎯 Cyber Security & Ethical Hacking 🎯 Website Developing 🎯 Application Developing 🎯 Software Developing</p></i>
+</body>
+</html>
